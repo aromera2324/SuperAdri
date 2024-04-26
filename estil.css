@@ -1,0 +1,1697 @@
+.menu {
+    background: green;
+    width: 1680px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    top: 0px;
+}
+
+li {
+    display: inline;
+    line-height: 43px;
+    margin-right: 20px;
+    background-color: yellow;
+    padding: 9px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: small;
+    position: relative;
+    top: 30px;
+    left: 15px;
+    
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.pagina {
+    background: yellow;
+    width: 1680px;
+    height: 2740vh;
+    position: relative;
+    margin: 0 auto;
+    top: 0px;
+}
+
+.Super1{
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.41.20.png);
+    background-size: cover;
+}
+
+.Info1 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 515px;
+}
+
+.Lista1 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 1030px;
+    left: 590px;
+}
+
+.Super2{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 1000px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.41.43.png);
+    background-size: cover;
+}
+
+.Info2 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 1515px;
+}
+
+.Lista2 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 2030px;
+    left: 590px;
+}
+
+.Super3{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 1990px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.42.02.png);
+}
+
+.Info3 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 2505px;
+}
+
+.Lista3 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 3020px;
+    left: 590px;
+}
+
+.Super4{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 2980px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.43.12.png);
+    background-size: cover;
+}
+
+.Info4 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 3500px;
+}
+
+.Lista4 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 4020px;
+    left: 590px;
+}
+
+.Super5{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 3970px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.42.25.png);
+    background-size: cover;
+}
+
+.Info5 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 4485px;
+}
+
+.Lista5 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 5000px;
+    left: 590px;
+}
+
+.Super6{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 4960px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.42.55.png);
+    background-size: cover;
+}
+
+.Info6 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 5475px;
+}
+
+.Lista6 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 5990px;
+    left: 590px;
+}
+
+.Super7{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 5960px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.43.36.png);
+    background-size: cover;
+}
+
+.Info7 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 6475px;
+}
+
+.Lista7 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 6990px;
+    left: 590px;
+}
+
+.Super8{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 6940px;
+    background-image: url(img/Captura\ de\ pantalla\ 2024-04-15\ a\ las\ 17.52.05.png);
+    background-size: cover;
+}
+
+.Info8 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 7455px;
+}
+
+.Lista8 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 7970px;
+    left: 590px;
+}
+
+.Super9{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 7920px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.43.44.png);
+    background-size: cover;
+}
+
+.Info9 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 8435px;
+}
+
+.Lista9 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 8950px;
+    left: 590px;
+}
+
+.Super10{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 8920px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.44.16.png);
+    background-size: cover;
+}
+
+.Info10 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 9435px;
+}
+
+.Lista10 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 9950px;
+    left: 590px;
+}
+
+.Super11{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 9920px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.44.26.png);
+    background-size: cover;
+}
+
+.Info11 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 10435px;
+}
+
+.Lista11 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 10950px;
+    left: 590px;
+}
+
+.Super12{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 10920px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.42.33.png);
+    background-size: cover;
+}
+
+.Info12 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 11435px;
+}
+
+.Lista12 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 11950px;
+    left: 590px;
+}
+
+.Super13{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 11920px;
+    background-image: url(img/Captura\ de\ Pantalla\ 2024-02-29\ a\ las\ 11.44.47.png);
+    background-size: cover;
+}
+
+.Info13 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 12435px;
+}
+
+.Lista13 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 12935px;
+    left: 590px;
+}
+
+.Super14{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 12920px;
+    background-image: url(img/smurfette@2x.webp);
+    background-size: cover;
+}
+
+.Info14 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 13435px;
+}
+
+.Lista14 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 13935px;
+    left: 590px;
+}
+
+.Super15{
+    background: rgb(0, 131, 68);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 13920px;
+    background-image: url(img/Vanellope.webp);
+    background-size: cover;
+}
+
+.Info15 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 14435px;
+}
+
+.Lista15 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 14935px;
+    left: 590px;
+}
+
+.Super16{
+    background: rgb(255, 98, 0);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 14920px;
+    background-image: url(img/Rompe_Ralph.webp);
+    background-size: cover;
+}
+
+.Info16 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 15435px;
+}
+
+.Lista16 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 15935px;
+    left: 590px;
+}
+
+.Super17{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 15920px;
+    background-image: url(img/Anna.png);
+    background-size: cover;
+}
+
+.Info17 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 16435px;
+}
+
+.Lista17 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 16935px;
+    left: 590px;
+}
+
+.Super18{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 16920px;
+    background-image: url(img/Elsa.png);
+    background-size: cover;
+}
+
+.Info18 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 17435px;
+}
+
+.Lista18 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 17935px;
+    left: 590px;
+}
+
+.Super19{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 17920px;
+    background-image: url(img/Kristoff.png);
+    background-size: cover;
+}
+
+.Info19 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 18435px;
+}
+
+.Lista19 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 18935px;
+    left: 590px;
+}
+
+.Super20{
+    background: rgb(0, 102, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 18920px;
+    background-image: url(img/0b58697d1166cc00e5b053f382ab67af.jpg);
+    background-size: cover;
+}
+
+.Info20 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 19435px;
+}
+
+.Lista20 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 19935px;
+    left: 590px;
+}
+
+.Super21{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 19920px;
+    background-image: url(img/Nice.webp);
+    background-size: cover;
+}
+
+.Info21 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 20435px;
+}
+
+.Lista21 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 20935px;
+    left: 590px;
+}
+
+.Super22{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 20920px;
+    background-image: url(img/82ba98fef37462469219d7ea2b323e66.jpg);
+    background-size: cover;
+}
+
+.Info22 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 21435px;
+}
+
+.Lista22 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 21935px;
+    left: 590px;
+}
+
+.Super23{
+    background: rgb(99, 255, 164);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 21920px;
+    background-image: url(img/klipartz.com.png);
+    background-size: cover;
+}
+
+.Info23 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 22435px;
+}
+
+.Lista23 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 22935px;
+    left: 590px;
+}
+
+.Super24{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 22920px;
+    background-image: url(img/Petalo.jpg);
+    background-size: cover;
+}
+
+.Info24 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 23435px;
+}
+
+.Lista24 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 23935px;
+    left: 590px;
+}
+
+.Super25{
+    background: rgb(0, 153, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 23920px;
+    background-image: url(img/Burbuja.webp);
+    background-size: cover;
+}
+
+.Info25 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 24435px;
+}
+
+.Lista25 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 24935px;
+    left: 590px;
+}
+
+.Super26{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 24920px;
+    background-image: url(img/Cactus.webp);
+    background-size: cover;
+}
+
+.Info26 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 25435px;
+}
+
+.Lista26 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 25935px;
+    left: 590px;
+}
+
+.Super27{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 25920px;
+    background-image: url(img/Branch.png);
+    background-size: cover;
+}
+
+.Info27 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 26435px;
+}
+
+.Lista27 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 26935px;
+    left: 590px;
+}
+
+.Super28{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 26920px;
+    background-image: url(img/Poppy.png);
+    background-size: cover;
+}
+
+.Info28 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 27435px;
+}
+
+.Lista28 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 27935px;
+    left: 590px;
+}
+
+.Super29{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 27920px;
+    background-image: url(img/Viva.png);
+    background-size: cover;
+}
+
+.Info29 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 28435px;
+}
+
+.Lista29 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 28935px;
+    left: 590px;
+}
+
+.Super30{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 28920px;
+    background-image: url(img/Barb.png);
+    background-size: cover;
+}
+
+.Info30 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 29435px;
+}
+
+.Lista30 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 29935px;
+    left: 590px;
+}
+
+.Super31{
+    background: rgb(0, 0, 0);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 29920px;
+    background-image: url(img/Casper.png);
+    background-size: cover;
+}
+
+.Info31 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 30435px;
+}
+
+.Lista31 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 30935px;
+    left: 590px;
+}
+
+.Super32{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 30920px;
+    background-image: url(img/Tillie.webp);
+    background-size: cover;
+}
+
+.Info32 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 31435px;
+}
+
+.Lista32 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 31935px;
+    left: 590px;
+}
+
+.Super33{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 31920px;
+    background-image: url(img/Hattori.jpg);
+    background-size: cover;
+}
+
+.Info33 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 32435px;
+}
+
+.Lista33 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 32935px;
+    left: 590px;
+}
+
+.Super34{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 32920px;
+    background-image: url(img/Shinzo.webp);
+    background-size: cover;
+}
+
+.Info34 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 33435px;
+}
+
+.Lista34 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 33935px;
+    left: 590px;
+}
+
+.Super35{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 33920px;
+    background-image: url(img/Iron.png);
+    background-size: cover;
+}
+
+.Info35 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 34435px;
+}
+
+.Lista35 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 34935px;
+    left: 590px;
+}
+
+.Super36{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 34920px;
+    background-image: url(img/WALL·E.webp);
+    background-size: cover;
+}
+
+.Info36 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 35435px;
+}
+
+.Lista36 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 35935px;
+    left: 590px;
+}
+
+.Super37{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 35920px;
+    background-image: url(img/EVA.png);
+    background-size: cover;
+}
+
+.Info37 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 36435px;
+}
+
+.Lista37 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 36935px;
+    left: 590px;
+}
+
+.Super38{
+    background: rgb(245, 255, 99);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 36920px;
+    background-image: url(img/Eric.ico);
+    background-size: cover;
+}
+
+.Info38 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 37435px;
+}
+
+.Lista38 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 37935px;
+    left: 590px;
+}
+
+.Super39{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 37920px;
+    background-image: url(img/Lisa.png);
+    background-size: cover;
+}
+
+.Info39 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 38435px;
+}
+
+.Lista39 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 38935px;
+    left: 590px;
+}
+
+.Super40{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 38920px;
+    background-image: url(img/Bloopies.jpg);
+    background-size: cover;
+}
+
+.Info40 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 39435px;
+}
+
+.Lista40 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 39935px;
+    left: 590px;
+}
+
+.Super41{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 39920px;
+    background-image: url(img/Shellies.png);
+    background-size: cover;
+}
+
+.Info41 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 40435px;
+}
+
+.Lista41 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 40935px;
+    left: 590px;
+}
+
+.Super42{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 40920px;
+    background-image: url(img/Sia.png);
+    background-size: cover;
+}
+
+.Info42 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 41435px;
+}
+
+.Lista42 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 41935px;
+    left: 590px;
+}
+
+.Super43{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 41920px;
+    background-image: url(img/Lu.webp);
+    background-size: cover;
+}
+
+.Info43 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 42435px;
+}
+
+.Lista43 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 42935px;
+    left: 590px;
+}
+
+.Super44{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 42920px;
+    background-image: url(img/Newton.png);
+    background-size: cover;
+}
+
+.Info44 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 43435px;
+}
+
+.Lista44 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 43935px;
+    left: 590px;
+}
+
+.Super45{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 43920px;
+    background-image: url(img/Lidia.png);
+    background-size: cover;
+}
+
+.Info45 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 44435px;
+}
+
+.Lista45 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 44935px;
+    left: 590px;
+}
+
+.Super46{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 44920px;
+    background-image: url(img/Roboneitor.png);
+    background-size: cover;
+}
+
+.Info46 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 45435px;
+}
+
+.Lista46 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 45935px;
+    left: 590px;
+}
+
+.Super47{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 45920px;
+    background-image: url(img/Bobby.png);
+    background-size: cover;
+}
+
+.Info47 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 46435px;
+}
+
+.Lista47 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 46935px;
+    left: 590px;
+}
+
+.Super48{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 46920px;
+    background-image: url(img/Marvin.png);
+    background-size: cover;
+}
+
+.Info48 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 47435px;
+}
+
+.Lista48 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 47935px;
+    left: 590px;
+}
+
+.Super49{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 47920px;
+    background-image: url(img/Blackmaster.png);
+    background-size: cover;
+}
+
+.Info49 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 48435px;
+}
+
+.Lista49 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 48935px;
+    left: 590px;
+}
+
+.Super50{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 48920px;
+    background-image: url(img/Alan\ Dunn.png);
+    background-size: cover;
+}
+
+.Info50 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 49435px;
+}
+
+.Lista50 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 49935px;
+    left: 590px;
+}
+
+.Super51{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 49920px;
+    background-image: url(img/Calavera.png);
+    background-size: cover;
+}
+
+.Info51 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 50435px;
+}
+
+.Lista51 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 50935px;
+    left: 590px;
+}
+
+.Super52{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 50920px;
+    background-image: url(img/Nigel\ Basil.png);
+    background-size: cover;
+}
+
+.Info52 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 51435px;
+}
+
+.Lista52 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 51935px;
+    left: 590px;
+}
+
+.Super53{
+    background: rgb(213, 99, 255);
+    height: 500px;
+    width: 500px;
+    right: 590px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 51920px;
+    background-image: url(img/Dexter.png);
+    background-size: cover;
+}
+
+.Info53 {
+    background: cyan;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 52435px;
+}
+
+.Lista53 {
+    background: orange;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 0 auto;
+    bottom: 52935px;
+    left: 590px;
+}
+
+.cuadrado {
+    
+}
+
+.info p{
+    padding: 20px;
+
+}
+
+.lista p{
+    padding: 20px;
+
+}
